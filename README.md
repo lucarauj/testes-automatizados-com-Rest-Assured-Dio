@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/testes-automatizados-com-Rest-Assured-Dio/blob/main/LICENSE)
+
 <h1 align="center">
   TESTES AUTOMATIZADOS COM 
   <br/>
